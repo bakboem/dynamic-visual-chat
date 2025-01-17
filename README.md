@@ -1,4 +1,5 @@
 # Dynamic Context-Based Visual Generator for Chat
+## ***This project is my first AI model challenge project in 2025, and I hope to master the key knowledge of AI integration through it.***
 
 ## 🚀 **Vision and Purpose**
 In a world dominated by text-based communication, expressions often feel limited by the constraints of emojis and static GIFs. This project aims to revolutionize conversational experiences by introducing **dynamic, AI-generated visuals** that are deeply tied to the context, sentiment, and unique elements of the conversation.
