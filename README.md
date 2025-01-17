@@ -21,7 +21,7 @@ This project seeks to overcome these limitations by combining **Natural Language
 
 ---
 
-## 🛠️ **Proposed Solution**
+## 🛠️ **Envisioned Solution**
 ### **1. Contextual Analysis**
 Using advanced NLP techniques to:
 - Extract sentiment (e.g., happiness, surprise, curiosity).
