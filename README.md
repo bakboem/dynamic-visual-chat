@@ -103,4 +103,9 @@ This project is a bold step toward redefining communication. If you are as excit
 - Contribute to development and testing.
 - Collaborate to bring this vision to life.
 
+## 🗂️ **Discussions and FAQ**
+To make onboarding easier, repository discussions now capture short maintainer answers for recurring questions:
+- [What problem is dynamic-visual-chat trying to solve?](https://github.com/bakboem/dynamic-visual-chat/discussions/1)
+- [Which stack is planned for the first working prototype?](https://github.com/bakboem/dynamic-visual-chat/discussions/2)
+
 Together, let’s transform how people express themselves in the digital age! 🌟
